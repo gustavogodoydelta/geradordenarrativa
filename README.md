@@ -1,2 +1,1 @@
-# geradordenarrativa
-Gerador de narrativa para boletins de ocorrência, para utilização da Polícia Judiciária Civil de Mato Grosso
+Criado por Gustavo Godoy Alevado (gustavoalevado@pjc.mt.gov.br) e Fernando Gonçalves Ponce Corrêa da Costa (fernandocosta@pjc.mt.gov.br)
